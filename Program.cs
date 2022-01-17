@@ -14,7 +14,13 @@ namespace Teste
                 Console.WriteLine(nome + ", você não pode beber!!!");
             } else
             {
-                Console.WriteLine("Parabéns " + nome + ", pode encher a cara!!!");
+                if (idade > 200)
+                {
+                    Console.WriteLine("Você já é uma múmia!!!");
+                } else
+                {
+                    Console.WriteLine("Parabéns " + nome + ", pode encher a cara!!!");
+                }
             }
         }
     }
