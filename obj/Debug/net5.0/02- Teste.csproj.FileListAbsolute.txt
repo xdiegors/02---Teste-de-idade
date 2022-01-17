@@ -1,0 +1,16 @@
+C:\dev\dio\02 - Teste de idade\bin\Debug\net5.0\02- Teste.exe
+C:\dev\dio\02 - Teste de idade\bin\Debug\net5.0\02- Teste.deps.json
+C:\dev\dio\02 - Teste de idade\bin\Debug\net5.0\02- Teste.runtimeconfig.json
+C:\dev\dio\02 - Teste de idade\bin\Debug\net5.0\02- Teste.runtimeconfig.dev.json
+C:\dev\dio\02 - Teste de idade\bin\Debug\net5.0\02- Teste.dll
+C:\dev\dio\02 - Teste de idade\bin\Debug\net5.0\ref\02- Teste.dll
+C:\dev\dio\02 - Teste de idade\bin\Debug\net5.0\02- Teste.pdb
+C:\dev\dio\02 - Teste de idade\obj\Debug\net5.0\02- Teste.csproj.AssemblyReference.cache
+C:\dev\dio\02 - Teste de idade\obj\Debug\net5.0\02- Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dio\02 - Teste de idade\obj\Debug\net5.0\02- Teste.AssemblyInfoInputs.cache
+C:\dev\dio\02 - Teste de idade\obj\Debug\net5.0\02- Teste.AssemblyInfo.cs
+C:\dev\dio\02 - Teste de idade\obj\Debug\net5.0\02- Teste.csproj.CoreCompileInputs.cache
+C:\dev\dio\02 - Teste de idade\obj\Debug\net5.0\02- Teste.dll
+C:\dev\dio\02 - Teste de idade\obj\Debug\net5.0\ref\02- Teste.dll
+C:\dev\dio\02 - Teste de idade\obj\Debug\net5.0\02- Teste.pdb
+C:\dev\dio\02 - Teste de idade\obj\Debug\net5.0\02- Teste.genruntimeconfig.cache
